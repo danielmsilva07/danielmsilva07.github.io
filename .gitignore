@@ -1,0 +1,46 @@
+### Windows ###
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+### VS Code ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+### Node.js / Web ###
+node_modules/
+dist/
+build/
+coverage/
+.npm
+
+### Logs ###
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+### Segurança / Ambiente ###
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
