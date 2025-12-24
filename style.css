@@ -5,6 +5,7 @@
 }
 body {
   background: var(--bg-url) no-repeat center center/cover;
+  height: 100vh;
   /*background: url(./assets/bg-mobile.jpg);*/
   /*background-repeat: no-repeat;*/
   /*background-size: cover;*/
@@ -33,7 +34,8 @@ body * {
   --switch-bg-url: url(./assets/sun.svg);
 }
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /*height: 712px;*/
   border: solid 0px red;
   margin: -10px auto 0px auto; /* centraliza horizontalmente */
@@ -75,6 +77,10 @@ body * {
   z-index: 1;
   transform: translateY(-13%);
   cursor: pointer;
+  animation: slide-back ease 0.4s;
+}
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
 }
 #switch span {
   display: block;
@@ -87,8 +93,7 @@ body * {
   -webkit-backdrop-filter: blur(4px);
 }
 .light #switch button {
-  left: auto;
-  right: 0px;
+  animation: slide-in ease 0.4s forwards;
 }
 /* Links Section */
 ul {
@@ -142,4 +147,29 @@ footer {
   text-align: center;
   padding: 16px 0px;
   font-size: 14px;
+}
+@media (min-width: 768px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
+}
+/* animation for switch button */
+@keyframes slide-in {
+  from {
+    left: 0%;
+  }
+  to {
+    left: 50%;
+  }
+}
+@keyframes slide-back {
+  from {
+    left: 50%;
+  }
+  to {
+    left: 0%;
+  }
 }

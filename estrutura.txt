@@ -1,0 +1,43 @@
+Layout:
+> Inscreva-se no Blog DMS
+> Baixar meu e-book
+> Ver meu portfólio
+> Conhecer o explorer
+> Mídias Sociais
+=====================================================================
+Arquivos:
+index.html
+style.css
+preview.png
+extensions.js
+settings.js
+bg-mobile.jpg
+bg-moblie-light.jpg
+danie-foto.jfif
+foto_daniel.jpg
+moon-outline.svg
+moon-stars.svg
+sun.svg
+script.js
+.gitignore
+estrutura.txt
+Roteiro_Upload.docx
+LICENCE.md
+README.md
+====================================================================
+Pastas:
+.git
+.github
+.vscode
+assets
+javascript
+====================================================================
+O que é Markdown ou MD?
+Markdown não é uma linguagem de programação, mas sim uma linguagem
+de marcação simples (ou markup language) que foi criada para ser o
+mais fácil possível de ler e escrever em formato de texto simples,
+enquanto ainda permite a conversão fácil para HTML.
+O principal objetivo do Markdown é permitir que as pessoas escrevam
+usando um formato de texto simples, que pode ser lido facilmente sem
+ser renderizado, mas que, quando processado, se transforma em texto
+formatado (cabeçalhos, listas, negrito, itálico, links, etc.).

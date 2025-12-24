@@ -63,6 +63,8 @@ Se quiser clonar este projeto e rodar localmente em sua máquina, siga os passos
     ```
 
 3.  **Execute:** Abra o arquivo `index.html` em seu navegador de preferência.
+---
+Quando os arquivos forem clonados e instalados na máquina (computador) poderá utilizar o diretório que for mais conveniente para o projeto. Apresenta-se como sugestão o seguinte caminho: "c:/projetos", utilizando a organização de pastas e subpastas, mas podendo adaptar essa estrutura conforme a necessidade.
 
 ---
 
