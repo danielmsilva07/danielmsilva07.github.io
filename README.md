@@ -1,4 +1,4 @@
-# 📄 Projeto Blog Pessoal | Daniel Mendes (@danielmsilva07)
+# 📄 Projeto Blog Pessoal | Daniel Mendes
 
 ## 👋 Bem-vindo(a) ao Repositório!
 
@@ -7,7 +7,7 @@ Este projeto é o resultado do meu aprendizado em desenvolvimento web, focado em
 ### 💡 Propósito do Projeto
 Este Blog foi desenvolvido com o intuito de servir como um **modelo base** que pode ser facilmente adaptado e personalizado por outros utilizadores. O design é focado na acessibilidade e na apresentação clara das informações, permitindo que qualquer um o ajuste de acordo com suas próprias habilidades e experiências.
 
-![Imagem do projeto](github/preview.png)
+![Imagem do projeto](.github/preview.png)
 
 ---
 
@@ -15,7 +15,7 @@ Este Blog foi desenvolvido com o intuito de servir como um **modelo base** que p
 
 Você pode visualizar a versão online e interativa do meu currículo através deste link:
 
-[**Acessar Currículo Online**](https://danielmsilva07.github.io)
+[**Acessar Blog Daniel Mendes**](https://danielmsilva07.github.io)
 
 ---
 
