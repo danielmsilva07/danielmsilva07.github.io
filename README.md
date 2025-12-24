@@ -5,7 +5,7 @@
 Este projeto é o resultado do meu aprendizado em desenvolvimento web, focado em demonstrar minhas qualificações, experiências e habilidades adquiridas no curso de Front-End.
 
 ### 💡 Propósito do Projeto
-Este Blog foi desenvolvido com o intuito de servir como um **modelo base** que pode ser facilmente adaptado e personalizado por outros utilizadores. O design é focado na acessibilidade e na apresentação clara das informações, permitindo que qualquer um o ajuste de acordo com suas próprias habilidades e experiências.
+Este Blog foi desenvolvido com o intuito de servir como um **modelo base** que pode ser facilmente adaptado e personalizado por outros utilizadores. O design é focado na acessibilidade e na apresentação clara das informações, permitindo que qualquer um ajuste de acordo com suas próprias habilidades e experiências.
 
 ![Imagem do projeto](.github/preview.png)
 
@@ -13,7 +13,7 @@ Este Blog foi desenvolvido com o intuito de servir como um **modelo base** que p
 
 ## 🚀 Acessar o Blog
 
-Você pode visualizar a versão online e interativa do meu currículo através deste link:
+Você pode visualizar a versão online e interativa do blog através deste link:
 
 [**Acessar Blog Daniel Mendes**](https://danielmsilva07.github.io)
 
@@ -27,9 +27,8 @@ Demonstrar minhas competências em desenvolvimento web (**HTML**, **CSS**, e **J
 
 ## ✨ Funcionalidades Principais
 
-* **Design Responsivo:** O currículo se adapta perfeitamente a diferentes tamanhos de tela (desktop, tablet, celular).
-* **Navegação Intuitiva:** Facilidade em encontrar informações sobre formação, experiência e habilidades.
-* **Download em PDF:** Opção para baixar uma versão em PDF do currículo.
+* **Design Responsivo:** O blog adapta-se perfeitamente a diferentes tamanhos de tela (desktop, tablet, celular).
+* **Navegação Intuitiva:** Facilidade em encontrar informações sobre projetos, portfólio, e-book e mídias.
 
 ---
 
@@ -37,7 +36,7 @@ Demonstrar minhas competências em desenvolvimento web (**HTML**, **CSS**, e **J
 
 ### Tecnologias Utilizadas (Front-end)
 
-* **HTML5:** Linguagem de marcação utilizada para estruturar o conteúdo do currículo.
+* **HTML5:** Linguagem de marcação utilizada para estruturar o conteúdo do blog.
 * **CSS3:** Linguagem de estilo utilizada para estilizar e dar o layout responsivo.
 * **JavaScript:** Utilizado para adicionar interatividade e dinamismo à página.
 
