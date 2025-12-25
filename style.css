@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "Inter VF"; /* Nome que você usará no CSS */
+  /* O formato 'truetype' é o valor correto para arquivos .ttf */
+  src: url("./fontes/inter/inter.ttf") format("truetype");
+  /* Definindo a faixa de pesos, já que esta é uma Fonte Variável */
+  font-weight: 100 900;
+  font-style: normal;
+}
 * {
   box-sizing: border-box;
   margin: 0;
@@ -12,7 +20,7 @@ body {
   /*background-position: center;*/
 }
 body * {
-  font-family: "Inter", sans-serif;
+  font-family: "Inter VF", sans-serif;
   color: var(--text-color);
 }
 :root {
@@ -87,10 +95,10 @@ body * {
   width: 64px;
   height: 24px;
   background: var(--surface-color);
-  backdrop-filter: blur(4px);
   border: solid 1px var(--stroke-color);
   border-radius: 9999px;
   -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
 }
 .light #switch button {
   animation: slide-in ease 0.4s forwards;
@@ -114,8 +122,8 @@ ul li a {
   background: var(--surface-color);
   border-radius: 8px;
   border: solid 1px var(--stroke-color);
-  backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
   text-decoration: none;
   font-weight: 500;
   transition: background ease 0.3s, border ease 0.3s;
